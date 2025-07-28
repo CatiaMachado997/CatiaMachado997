@@ -1,7 +1,7 @@
 # 👩‍💻 Cátia Machado — Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-catia--machado--79394118a-blue?logo=linkedin)](https://www.linkedin.com/in/catia-machado-79394118a/)  
-📧 [catia.machado97@outlook.pt](mailto:catia.machado97@outlook.pt) | 📞 +351912976553 | 🇵🇹 Portugal
+📧 [catia.machado97@outlook.pt](mailto:catia.machado97@outlook.pt)  | 🇵🇹 Portugal
 
 ---
 
